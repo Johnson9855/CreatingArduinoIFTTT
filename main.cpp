@@ -4,8 +4,8 @@
 #include <ArduinoHttpClient.h>
 
 // Replace these with your network credentials
-const char* ssid = "TP-Link_85F1";
-const char* password = "n0p@ssw0rd";
+const char* ssid = "WiFi_SSID";
+const char* password = "WiFi_PASSWORD";
 
 // IFTTT settings
 const char* host = "maker.ifttt.com";
